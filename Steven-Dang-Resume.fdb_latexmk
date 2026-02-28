@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1771081873.38976 "/home/spd527/Documents/Resume/Steven-Dang-Resume.tex" "Steven-Dang-Resume.pdf" "Steven-Dang-Resume" 1771081874.01324 0
-  "/home/spd527/Documents/Resume/Steven-Dang-Resume.tex" 1771081873.17511 8527 62458a98ce05702c8873580d2aa9c534 ""
+["pdflatex"] 1772257249.62415 "/home/spd527/Documents/Resume/Steven-Dang-Resume.tex" "Steven-Dang-Resume.pdf" "Steven-Dang-Resume" 1772257250.11077 0
+  "/home/spd527/Documents/Resume/Steven-Dang-Resume.tex" 1772257249.43106 8027 1d087486458fd2c7c2cfdc3ec385d2dc ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -81,9 +81,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1757034082 5528033 2de1857e87beaf98978b63b6132a9b29 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1757034155 3605790 4ef0955fcbcf7e96e7134037695fcf94 ""
   "/usr/local/texlive/2025/texmf.cnf" 1757034076.31609 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Steven-Dang-Resume.aux" 1771081873.95243 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Steven-Dang-Resume.out" 1771081873.95243 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Steven-Dang-Resume.tex" 1771081873.17511 8527 62458a98ce05702c8873580d2aa9c534 ""
+  "Steven-Dang-Resume.aux" 1772257250.06106 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Steven-Dang-Resume.out" 1772257250.06106 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Steven-Dang-Resume.tex" 1772257249.43106 8027 1d087486458fd2c7c2cfdc3ec385d2dc ""
   (generated)
   "Steven-Dang-Resume.aux"
   "Steven-Dang-Resume.log"
