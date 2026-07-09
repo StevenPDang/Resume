@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.4)  19 MAR 2026 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.4)  17 APR 2026 19:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/spd527/Documents/Resume/Steven-Dang-Resume.tex
-(/home/spd527/Documents/Resume/Steven-Dang-Resume.tex
+**/home/spd527/Documents/Resume/Versions/April/Steven-Dang-Resume.tex
+(/home/spd527/Documents/Resume/Versions/April/Steven-Dang-Resume.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -297,7 +297,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 127.
 
-Overfull \hbox (2.27289pt too wide) in alignment at lines 200--200
+Overfull \hbox (2.27289pt too wide) in alignment at lines 202--202
 [] [] 
  []
 
@@ -310,14 +310,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[2] (./Steven-Dang-Resume.aux)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Steven-Dang-Resume.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -330,18 +323,18 @@ Package rerunfilecheck Info: File `Steven-Dang-Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
- 10852 strings out of 467800
- 171144 string characters out of 5431889
- 622945 words of memory out of 5000000
+ 10851 strings out of 467800
+ 171183 string characters out of 5431889
+ 620945 words of memory out of 5000000
  39378 multiletter control sequences out of 15000+600000
  632417 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,295b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,315b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Steven-Dang-Resume.pdf (2 pages, 108072 bytes).
+Output written on Steven-Dang-Resume.pdf (1 page, 106490 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
