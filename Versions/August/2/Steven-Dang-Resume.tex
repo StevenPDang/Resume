@@ -1,0 +1,243 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Steven Dang} \\ \vspace{1pt}
+    \small 682-716-3199 $|$ \href{mailto:x@x.com}{\underline{stevenphi.dang@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/stevenpdang}{\underline{linkedin.com/in/stevenpdang}} $|$
+    \href{https://github.com/StevenPDang}{\underline{github.com/StevenPDang}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Texas at Arlington \(|\) 3.72/4.0 GPA}{Arlington, TX}
+      {Bachelor of Science in Computer Science}{Dec 2027}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+  
+  
+%  \resumeSubheading
+%      {Software Engineer Intern (Incoming)}{June 2026 -- August 2026}
+%      {Business Wire}{San Francisco, CA}
+%      \resumeItemListStart
+%        \resumeItem{Engineer client-side application logic using React, managing complex state and data flow for customer-facing platform features.}
+%        \resumeItem{Integrate front-end systems with backend REST APIs, handling asynchronous data fetching, caching, and error states.}
+%        \resumeItem{Develop data-driven features by processing and analyzing posting performance metrics to support customer reporting.}
+%      \resumeItemListEnd
+      
+%      \resumeSubheading
+%      {Software Developer Co-Op}{March 2026 -- Present}
+%      {Bell Flight, Inc.}{Fort Worth, TX}
+%      \resumeItemListStart
+%        \resumeItem{Built and maintained front-end features using React, developing responsive pages for internal directive management systems on the FLRAA program.}
+%        \resumeItem{Integrated front-end components with backend REST APIs, enabling real-time data retrieval, submission, and updates for operational workflows.}
+%        \resumeItem{Designed reusable UI components and hooks to streamline state management and improve code maintainability across multiple pages.}
+%      \resumeItemListEnd
+
+      
+
+    \resumeSubheading
+      {Software Engineer Intern}{June 2026 -- August 2026}
+      {Business Wire}{San Francisco, CA}
+      \resumeItemListStart
+        \resumeItem{Delivered 12+ production features and bug fixes for an enterprise news publishing platform using React, Node.js, Docker, Kubernetes, Jira, and Git-based workflows.}
+        \resumeItem{Resolved complex proofing-tool issues involving stale state, editor synchronization, word highlighting, and scrolling, eliminating 100\% of known reproducible cases for assigned defects.}
+        \resumeItem{Collaborated with engineers, QA, and product stakeholders to investigate regressions and deliver production-ready fixes, reducing issue turnaround time by 30\%.}
+      \resumeItemListEnd
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    \resumeSubheading
+      {Owner \& Operator - Popup Cafe Business}{May 2025 -- Present}
+      {Koicha LLC}{Fort Worth, TX}
+      \resumeItemListStart
+        \resumeItem{Founded and operated a popup cafe business, managing staffing, inventory planning, on-site service, and daily operations.}
+        \resumeItem{Built the initial version of a custom order-management and reporting system that later evolved into OpenLedger, transitioning from Google Apps Script and Sheets to a Python (Flask) and PostgreSQL-based stack.}
+        \resumeItem{Automated order logging, receipt generation, daily reporting, and real-time metrics dashboards to improve operational visibility and reduce manual tracking work.}
+    \resumeItemListEnd
+
+   
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+    \resumeProjectHeading
+              {\textbf{OpenLedger POS} $|$ \emph{Python, Flask, SQLAlchemy, PostgreSQL, React, TailwindCSS
+    }}{}
+              \resumeItemListStart
+                \resumeItem{Built a self-hostable point-of-sale and order-management system from scratch as an open alternative to centralized SaaS POS platforms.}
+                \resumeItem{Designed Flask REST APIs for authentication, order creation, inventory management, and business operations, exchanging structured JSON between the React frontend and Python backend.}
+                \resumeItem{Modeled stores, users, categories, items, orders, and order items in PostgreSQL using SQLAlchemy ORM to enforce relationships, data integrity, and maintainable backend logic.}
+              \resumeItemListEnd
+    \resumeProjectHeading
+          {\textbf{Finding Underated Music Through ML} $|$ \emph{Scikit-Learn, XGBoost, Pandas, Seaborn, Matplotlib}}{}
+          \resumeItemListStart
+            \resumeItem{Designed a system to decouple intrinsic item quality from external popularity signals (artist/genre influence), improving model fairness and interpretability}
+            \resumeItem{Implemented scalable feature transformations using vectorized Pandas operations and group-based aggregations}
+            \resumeItem{Applied ensemble learning (XGBoost) to capture complex interactions in high-dimensional feature space}
+          \resumeItemListEnd
+    
+
+    \resumeSubHeadingListEnd
+
+  
+%────────────────────────────Open Source────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+\section{Open Source Contribution}
+  \resumeSubHeadingListStart
+  \resumeProjectHeading
+          {\textbf{Meta — Lexical}}{}
+          \resumeItemListStart
+            \resumeItem{Contributed to Lexical, Meta's extensible React-based rich text editor framework.}
+            \resumeItem{Investigated GitHub issues, reproduced bugs, and implemented fixes within a large TypeScript/React monorepo.}
+            \resumeItem{Improved editor functionality involving Markdown shortcuts, history management, and plugin behavior.}
+          \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Python, C, C\#, C++, SQL, JavaScript, HTML/CSS} \\
+     \textbf{Databases}{: PostgreSQL, SQLite, MySQL } 
+     \textbf{Frameworks}{: React, Node.js, Next.js, Flask, WordPress} \\
+     \textbf{AI \& Collaboration}{: LLM Applications, Tool Calling, Agent Frameworks, React Flow, Yjs, CRDTs} \\
+     \textbf{Developer Tools}{: Kubernetes, Git, Vite, Docker, PostgreSQL, Google Cloud Platform, Jupyter Notebooks, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Google App Script} \\
+     \textbf{Libraries}{: pandas, NumPy, Matplotlib, XGBoost, Scikit-learn, seaborn, Brian2, Grommet} \\
+     \textbf{Technical Domains}{: Dev Ops, Analytics, Application Development} \\
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
