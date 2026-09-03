@@ -1,6 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1787775188.77843 "/Users/stevendang/Documents/Resume/Versions/August/2/Steven-Dang-Resume.tex" "Steven-Dang-Resume.pdf" "Steven-Dang-Resume" 1787775189.087 0
-  "/Users/stevendang/Documents/Resume/Versions/August/2/Steven-Dang-Resume.tex" 1787775188.57796 10367 dea216c43b2108681427375267b08115 ""
+["pdflatex"] 1788019852.41792 "Steven-Dang-Resume.tex" "Steven-Dang-Resume.pdf" "Steven-Dang-Resume" 1788019852.70367 0
   "/Users/stevendang/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/Users/stevendang/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/Users/stevendang/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -79,9 +78,9 @@
   "/Users/stevendang/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1787774574 92986 63098668128099b95e4c38c7dcb23c37 ""
   "/Users/stevendang/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1787774872 2303324 d4c1cd998bd0382370147fd3f29873bc ""
   "/Users/stevendang/Library/TinyTeX/texmf.cnf" 1787714893 637 edd806fb06a89761a6034e1968af9017 ""
-  "Steven-Dang-Resume.aux" 1787775189.05218 832 fc1bb30dd2cf0bd1d0122172a371e0c6 "pdflatex"
-  "Steven-Dang-Resume.out" 1787775189.05276 559 2ab94b116493ee1c2ccb4db82f9a35d0 "pdflatex"
-  "Steven-Dang-Resume.tex" 1787775188.57796 10367 dea216c43b2108681427375267b08115 ""
+  "Steven-Dang-Resume.aux" 1788019852.6712 832 fc1bb30dd2cf0bd1d0122172a371e0c6 "pdflatex"
+  "Steven-Dang-Resume.out" 1788019852.67164 559 2ab94b116493ee1c2ccb4db82f9a35d0 "pdflatex"
+  "Steven-Dang-Resume.tex" 1788019852.31039 10260 e29dfcbb5e52f15742921e483a9dbabd ""
   (generated)
   "Steven-Dang-Resume.aux"
   "Steven-Dang-Resume.log"

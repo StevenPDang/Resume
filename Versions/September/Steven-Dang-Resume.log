@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.26)  26 AUG 2026 15:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.26)  2 SEP 2026 15:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/stevendang/Documents/Resume/Versions/August/2/Steven-Dang-Resume.tex
-(/Users/stevendang/Documents/Resume/Versions/August/2/Steven-Dang-Resume.tex
+**/Users/stevendang/Documents/Resume/Versions/September/Steven-Dang-Resume.tex
+(/Users/stevendang/Documents/Resume/Versions/September/Steven-Dang-Resume.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
 (/Users/stevendang/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -304,14 +304,14 @@ Package rerunfilecheck Info: File `Steven-Dang-Resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10795 strings out of 469046
- 177071 string characters out of 5456635
- 630000 words of memory out of 5000000
+ 177074 string characters out of 5456635
+ 626000 words of memory out of 5000000
  39767 multiletter control sequences out of 15000+600000
  633313 words of font info for 62 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 74i,11n,79p,534b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,11n,79p,535b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></Users/stevendang/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Steven-Dang-Resume.pdf (1 page, 106409 bytes).
+Output written on Steven-Dang-Resume.pdf (1 page, 104103 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

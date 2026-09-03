@@ -1,8 +1,8 @@
-PWD /Users/stevendang/Documents/Resume/Versions/August/2
+PWD /Users/stevendang/Documents/Resume/Versions/September
 INPUT /Users/stevendang/Library/TinyTeX/texmf.cnf
 INPUT /Users/stevendang/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
 INPUT /Users/stevendang/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/stevendang/Documents/Resume/Versions/August/2/Steven-Dang-Resume.tex
+INPUT /Users/stevendang/Documents/Resume/Versions/September/Steven-Dang-Resume.tex
 OUTPUT Steven-Dang-Resume.log
 INPUT /Users/stevendang/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 INPUT /Users/stevendang/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
