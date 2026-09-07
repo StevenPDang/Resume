@@ -5,7 +5,7 @@
 % License : MIT
 %------------------------
 
-\documentclass[letterpaper,11pt]{article}
+\documentclass[letterpaper,10pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -154,7 +154,8 @@
     \resumeSubheading{Undergraduate ML Researcher}{August 2026 -- Present}
       {University of Texas at Arlington}{Arlington, TX}
       \resumeItemListStart
-        \resumeItem{Developing an SQL-based retrieval pipeline to construct representative coresets from relational databases for RT-J training.}
+        \resumeItem{Developing a Python and SQL data pipeline to sample and retrieve representative training data from multi-table relational databases for relational deep learning models.}
+        \resumeItem{Reviewing recent literature on relational deep learning and data selection methods to inform pipeline design and experimental methodology.}
       \resumeItemListEnd
     \resumeSubheading
       {Software Engineer Intern}{June 2026 -- August 2026}
@@ -197,6 +198,13 @@
 \section{Projects}
     \resumeSubHeadingListStart
     \resumeProjectHeading
+              {\textbf{Website-to-Figma Agent Pipeline} $|$ \emph{TypeScript, Playwright, Figma Plugin API, WebSockets}}{Independent Project}
+              \resumeItemListStart
+                \resumeItem{Built an agentic pipeline that captures public websites and reconstructs them as editable, source-linked Figma layers, preserving text, images, SVGs, typography, clipping, and media fallbacks.}
+                \resumeItem{Designed provider-neutral inference and authenticated CLI-to-Figma transport with schema-validated decisions, deterministic fallbacks, bounded correction loops, retries, and safe layer ownership.}
+                \resumeItem{Automated PNG-based visual QA, achieving over 90\% SSIM on a production website; established 177 Vitest tests with at least 80\% line and branch coverage.}
+              \resumeItemListEnd
+    \resumeProjectHeading
               {\textbf{OpenLedger POS} $|$ \emph{Python, Flask, SQLAlchemy, PostgreSQL, React, TailwindCSS
     }}{}
               \resumeItemListStart
@@ -225,7 +233,7 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: C, C++, C\#, Java, Python, SQL, JavaScript} \\
+     \textbf{Languages}{: C, C++, C\#, Java, Python, SQL, JavaScript, TypeScript} \\
      \textbf{Frameworks \& Libraries}{: React, Next.js, Node.js, Flask, SQLAlchemy, Pandas, NumPy, Scikit-learn, XGBoost} \\
      \textbf{Systems \& Tools}{: PostgreSQL, REST APIs, Git, Docker, Kubernetes, Google Cloud Platform, Jira, CRDTs, Yjs}
     }}
